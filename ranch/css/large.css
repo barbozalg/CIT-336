@@ -1,6 +1,6 @@
 @media only screen and (min-width: 1028px){
 
-header, footer, nav, main { max-width: 75rem; margin: auto; }
+header, footer, nav, main { max-width: 70rem; margin: auto; }
 
 nav ul { padding-left: 2%; }
 nav li { width: auto; }
@@ -10,10 +10,4 @@ main figure { width: 31%; }
 
 div.news { column-count: 3; }
 
-} /* end of media query (large) */
-
-@media only screen and (min-width: 1215px){
-
-nav { width: 100%; }
-    
 } /* end of media query (large) */
