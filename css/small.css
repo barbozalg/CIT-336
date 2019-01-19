@@ -4,7 +4,7 @@
 body { font-family: Verdana; font-size: 16px; }
 
 /* header rules here */
-header { background-color: #FFE599; padding: 1rem 2%; }
+header { background-color: #FFD966; padding: 1rem 2%; }
 
 header h1, header h2 { margin: 0; }
 
@@ -24,7 +24,7 @@ nav a:hover { background-color: #444; }
 .clearfix:after { content: ""; display: table; clear: both; }
 
 main { padding: 1rem 2%; display: block; }
-main h1 { color: #FFE599; }
+main h1 { color: #FFD966; }
 main figure img { width: 100%; }
 main figure { width: 100%; margin: 0; }
 main figcaption { text-align: center; font-size: .8rem; }
@@ -34,5 +34,5 @@ div.news { clear: both; column-count: 2; column-rule: 1px solid #ddd; }
 footer {
     text-align: center;
     padding: 1rem 2%;
-    background-color: #FFE599;
+    background-color: #FFD966;
 }
