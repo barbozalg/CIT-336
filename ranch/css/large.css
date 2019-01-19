@@ -14,6 +14,6 @@ div.news { column-count: 3; }
 
 @media only screen and (min-width: 1216px){
 
-    nav { width: 76rem; }
+    nav { width: 77rem; }
 
 } /* end of media query (X-large) */
