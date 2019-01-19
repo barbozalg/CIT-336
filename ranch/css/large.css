@@ -11,10 +11,3 @@ main figure { width: 31%; }
 div.news { column-count: 3; }
 
 } /* end of media query (large) */
-
-@media only screen and (min-width: 1216px){
-
-    nav { width: 77rem; }
-    header { background-color: saddlebrown; }
-
-} /* end of media query (X-large) */
