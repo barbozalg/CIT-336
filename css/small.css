@@ -1,12 +1,7 @@
+* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+
 /* body rules here */
-body {
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-    font-family: Verdana;
-    font-size: 16px;
-    color: #111;
-}
+body { font-family: Verdana; font-size: 16px; color: #111; }
 
 /* header rules here */
 header { background-color: #FFD966; padding: 1rem 2%; }
