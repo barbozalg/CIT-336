@@ -4,7 +4,7 @@
 body { font-family: Verdana; font-size: 16px; }
 
 /* header rules here */
-header { background-color: #17a8e4; }
+header { background-color: #17a8e4; padding: 1rem 2%; }
 
 header h1, header h2 { margin: 0; }
 
