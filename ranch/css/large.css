@@ -2,7 +2,6 @@
 
 header, footer, nav, main { max-width: 75rem; margin: auto; }
 
-nav ul { padding-left: 2%; }
 nav li { width: auto; }
 nav a { padding: .5rem 1rem; }
 
