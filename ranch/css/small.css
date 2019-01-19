@@ -22,7 +22,7 @@ nav li.active { background-color: #333; }
 
 nav a {
     display: block;
-    padding: .8ren 0; /* 44 min height */
+    padding: .8rem 0; /* 44 min height */
     color: #eee;
     text-align: center;
     text-decoration: none;
