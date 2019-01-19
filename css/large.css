@@ -5,7 +5,7 @@ nav, main { max-width: 66rem; margin: auto; }
 
 nav ul { padding-left: 2%; }
 nav li { width: auto; }
-nav a { padding: .5rem 1rem; }
+nav a { padding: .8rem 0%; }
 
 main figure { width: 50%; }
 
