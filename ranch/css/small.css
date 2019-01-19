@@ -9,7 +9,7 @@ header { background-color: #17a8e4; padding: 1rem 2%; }
 header h1, header h2 { margin: 0; }
 
 /* navigation rules here */
-nav { background-color: #111; }
+nav { background-color: #111; width: 100%; }
 nav ul { margin: 0; padding: 0; }
 nav li { list-style-type: none; }
 nav li.active { background-color: #333; }
