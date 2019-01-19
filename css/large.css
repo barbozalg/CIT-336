@@ -1,7 +1,7 @@
 @media only screen and (min-width: 1028px){
 
-header, footer, main { max-width: 75rem; margin: auto; }
-nav { max-width: 70rem; margin: auto; }
+header, footer { max-width: 75rem; margin: auto; }
+nav, main { max-width: 66rem; margin: auto; }
 
 nav ul { padding-left: 2%; }
 nav li { width: auto; }
