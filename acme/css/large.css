@@ -1,0 +1,36 @@
+/*   Medium Size   */
+@media only screen and (min-width: 1028px) {
+
+
+header, nav, main, .info, footer { max-width: 1024px; margin:auto; }
+
+
+/*----------- BODY --------------*/
+body { font-size: 20px; }
+
+
+/*----------- HEADER --------------*/
+header { height:80px; }
+#logo img { width: 150px; }
+
+
+/*----------- NAVIGATION --------------*/
+nav button { display: none; }
+nav ul { display: block; }
+nav ul.hide { display: block; }
+.clearfix:after { display: table; }
+
+
+/*----------- MAIN --------------*/
+#hero { font-size: 20px; }
+#hero h2 { font-size: 24px; }
+#hero #actionbtn { width: 80%; }
+#hero div { width: 35%; background-color: rgba(255, 255,255,0); }
+main div.review { width: 45%; float: right; }
+main div.recipes { width: 45%; float: left; }
+
+
+/*----------- FOOTER --------------*/
+footer { clear: both; }
+
+} /* end of media query */
